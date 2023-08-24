@@ -1,0 +1,102 @@
+body{
+    background-color: rgb(46, 112, 188);
+    font: 15pt Arial;
+    text-align: center; 
+    box-sizing: border-box;
+
+    position: absolute;
+    width: 1416px;
+    height: 986px;
+    left: 12px;
+    top: 19px;
+    border: 10px solid #000000;
+    border-radius: 100px;
+}
+
+header{
+ text-align: center;
+}
+
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 350px;
+    margin: auto;
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+}
+
+footer{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+}
+
+
+input#butt{
+    background: rgb(151, 201, 248);
+    border-radius: 10px;
+    padding: 15px;
+    width: 50px;
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+    margin: 15px;
+    
+}
+
+input#a{  
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100px; 
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+    margin: 5px;
+    text-align:center ;
+    border: 15px;
+    font-size: 30px;
+}
+input#b{
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100px; 
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+    margin: 10px;
+    text-align:center ;
+    border: 15px;
+    font-size: 30px;
+}
+input#c{
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    width: 100px;
+    box-shadow: 5px 5px  10px rgba(0, 0, 0, 0.342);
+    text-align:center ;
+    margin: 10px;
+    border: 15px;
+    font-size: 30px;
+}
+ div#caixa{
+    background: rgb(144, 69, 146);
+    border-radius: 10px;
+    padding: 50px;
+    width: 200px;
+    box-shadow: 5px 5px  10px rgba(59, 0, 59, 0.342);
+    text-align:center ;
+    margin-left: auto;
+    margin-right: auto ;
+    margin-top:15px ;
+    
+ }
+
+
+
+
+
+
+
